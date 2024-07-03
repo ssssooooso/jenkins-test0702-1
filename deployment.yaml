@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: hello-world-app
-        image: ssssooooso/hello-world-app:30
+        image: ssssooooso/hello-world-app:44
         ports:
         - containerPort: 80
